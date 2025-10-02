@@ -1,46 +1,41 @@
-# 🌐 Portfolio Takumi Kiyoshi
+# 🌐 Takumi Kiyoshi - Portfolio & Service
 
-Ini adalah repository untuk **Portfolio Website** saya, dibuat dengan **Bootstrap 5** dan dipublish gratis menggunakan **GitHub Pages**.
-
-🔗 Live Demo: [https://munons.github.io](https://munons.github.io)
-
----
-
-## 📋 Fitur
-- Responsive design (cocok di HP, tablet, laptop).
-- Navbar, header dengan foto profil, section tentang, portfolio, dan kontak.
-- Menggunakan **Bootstrap 5.3** via CDN.
-- Logo placeholder transparan + bulat menggunakan [placehold.co](https://placehold.co/).
-- Mudah dikustomisasi dan dikembangkan.
+Selamat datang di repository portfolio saya.  
+Website ini dibuat dengan **Bootstrap 5** dan dipublikasikan via **GitHub Pages**.
 
 ---
 
-## 📦 Deployment
-Website ini otomatis aktif dengan GitHub Pages.  
-Alamat default:
-```
-https://munons.github.io
-```
+## 👤 Tentang Saya
+Saya seorang **Pelajar, Software & Hardware Engineering IT** yang analitis, perfeksionis, dan suka berpikir kritis.  
+Selain mengembangkan keterampilan di bidang IT, saya juga menyediakan layanan **service komputer & handphone** untuk membantu kebutuhan perangkat Anda.
 
 ---
 
-## 📸 Preview
-![Preview](https://placehold.co/800x400?text=Portfolio+Preview&font=roboto&bg=000000&color=0d6efd)
+## 🛠️ Layanan Saya
+- 💻 **Service Komputer**
+  - Instalasi ulang Windows/Linux  
+  - Perbaikan hardware & software  
+  - Upgrade RAM/SSD  
+  - Troubleshooting perangkat  
+
+- 📱 **Service Handphone**
+  - Perbaikan software & error sistem  
+  - Ganti sparepart  
+  - Optimasi performa Android
 
 ---
 
-## 🛠️ Tools & Teknologi
-- HTML5
-- CSS3
-- [Bootstrap 5](https://getbootstrap.com)
-- GitHub Pages
-- [placehold.co](https://placehold.co/) (untuk logo placeholder)
+## 🧰 Tools & Teknologi
+Website ini dibuat menggunakan:
+- **HTML5** & **CSS3**  
+- **Bootstrap 5** (modern responsive framework)  
+- **JavaScript (Vanilla)** untuk interaksi dasar  
+- **GitHub Pages** untuk hosting gratis  
+- **Placehold.co** untuk logo/placeholder gambar
+
+## 📞 Kontak
+- 📩 Email : [Takumi Kiyoshi](mailto:soonhiru@gmail.com)  
 
 ---
 
-## 👤 Author
-**Takumi Kiyoshi**  
-- 💻 Pelajar & Teknisi Komputer
----
-
-© 2025 Takumi Kiyoshi — Dibuat dengan semangat belajar dan berbagi | menggunakan GitHub Pages
+© 2025 Takumi Kiyoshi. Dibuat dengan semangat belajar dan berbagi | menggunakan Bootstrap 5 + GitHub Pages.
